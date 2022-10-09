@@ -1,1 +1,1 @@
-<th class="border border-slate-300"><slot></slot></th>
+<th class="border border-slate-300"><slot /></th>
